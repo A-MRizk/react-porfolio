@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+sanity/node_modules
+
 # production
 /build
 
